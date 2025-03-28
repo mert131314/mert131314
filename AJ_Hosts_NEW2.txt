@@ -1,2 +1,2 @@
-92.88.101.0 www.growtopia1.com
-92.88.101.0 www.growtopia2.com
+23.27.6.212 www.growtopia1.com
+23.27.6.212 www.growtopia2.com
