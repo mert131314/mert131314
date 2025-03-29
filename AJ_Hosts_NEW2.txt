@@ -1,2 +1,2 @@
-5.175.246.17 www.growtopia1.com
-5.175.246.17 www.growtopia2.com
+23.27.6.206 www.growtopia1.com
+23.27.6.206 www.growtopia2.com
